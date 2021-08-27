@@ -2,7 +2,8 @@
 My custom vim configuration
 
 Using [Vundle.vim](https://github.com/VundleVim/Vundle.vim) as plugin manager \
-Setup Vundle: ```git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim```
+Setup Vundle: ```git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim``` \
+Clone config: ```https://github.com/anang42429/vim-config.git ~/.vimrc```
 
 ## Plugin
 - [vim-gitgutter](https://github.com/airblade/vim-gitgutter)
