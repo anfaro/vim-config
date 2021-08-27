@@ -13,7 +13,7 @@ Using [Vundle.vim](https://github.com/VundleVim/Vundle.vim) as plugin manager
 - [vim-devicons](https://github.com/ryanoasis/vim-devicons)
 - [vim-airline](https://github.com/vim-airline/vim-airline)
 - [vim-airline-themes](https://github.com/vim-airline/vim-airline)
-- [python-syntax](https://github.com/vim-python/python-syntax) *Disabled, Replaced by Coc.Nvim)*
+- [python-syntax](https://github.com/vim-python/python-syntax) *Disabled, Replaced by Coc.Nvim*
 - [dracula](https://draculatheme.com/vim) *Color Theme*
 - [nord-vim](https://github.com/arcticicestudio/nord-vim) *Color Theme*
 - [onedark.vim](https://github.com/joshdick/onedark.vim) *Color Theme*
