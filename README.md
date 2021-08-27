@@ -1,9 +1,11 @@
 # vim-config
 My custom vim configuration
 
-Using [Vundle.vim](https://github.com/VundleVim/Vundle.vim) as plugin manager \
-Setup Vundle: ```git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim``` \
-Clone config: ```https://github.com/anang42429/vim-config.git ~/.vimrc```
+Using [Vundle.vim](https://github.com/VundleVim/Vundle.vim) as plugin manager
+
+## Setup
+1. Setup Vundle: ```git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim```
+2. Download config: ```wget https://raw.githubusercontent.com/anang42429/vim-config/main/.vimrc```
 
 ## Plugin
 - [vim-gitgutter](https://github.com/airblade/vim-gitgutter)
