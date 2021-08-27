@@ -43,12 +43,12 @@ Using [Vundle.vim](https://github.com/VundleVim/Vundle.vim) as plugin manager
 
 ## Keybind
 - Ranger
--   * `<Leader> + n` or `<F5>` Open Current File
--   * `<Leader> + c` Open Current Directory
--   * `<Leader> + f` Open Project Root Directory
+  * `<Leader> + n` or `<F5>` Open Current File
+  * `<Leader> + c` Open Current Directory
+  * `<Leader> + f` Open Project Root Directory
 
 - `<F7>` Toggle Tagbar
 - Fzf
--   * `<F2>` Open Files
--   * `<F3>` Open Buffers
--   * `<F4>` Open Buffer Lines
+  * `<F2>` Open Files
+  * `<F3>` Open Buffers
+  * `<F4>` Open Buffer Lines
